@@ -1,0 +1,6 @@
+[submodule "my-app-py-api"]
+	path = my-app-py-api
+	url = git@github.com:RufenDev/my-app-py-api.git
+[submodule "my-app-db-migrations"]
+	path = my-app-db-migrations
+	url = git@github.com:RufenDev/my-app-db-migrations.git
